@@ -29,6 +29,8 @@ This portfolio is designed for:
 npm install
 npm run dev
 ```
+🔗 [Live Portfolio]([https://hariomsingh.github.io/portfolio](https://hariom045418.github.io/Portfolio/))
+
 
 ## 📬 Contact
 If you like this work or want to collaborate, feel free to connect with me.
